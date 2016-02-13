@@ -1,0 +1,2 @@
+# coolrich
+Rich is Cool
